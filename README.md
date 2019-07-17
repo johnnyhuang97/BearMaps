@@ -1,9 +1,8 @@
 # Bear Maps
 
 Bear Maps is a web mapping application that finds the shortest route between two points in Berkeley. Features: turn-by-turn directions, Autocomplete, and location search.
-This is a project from UC Berkeley's [CS61B Data Structures](https://sp18.datastructur.es/materials/proj/proj3/proj3) course.
 
-Try it out: [Heroku link](http://lance-bear-maps.herokuapp.com/map.html)
+Try it out: [Heroku link](http://bearmaps2016.herokuapp.com)
 
 I implemented the back end features: [**Rasterer**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/Rasterer.java), [**GraphDB**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/GraphDB.java), [**GraphBuildingHandler**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/GraphBuildingHandler.java), and [**Router**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/Router.java).
 
