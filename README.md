@@ -11,10 +11,10 @@ I implemented the back end features: [**Rasterer**](https://github.com/LanceSani
 ###
 | File | Description |
 | --- | --- |
-| [Rasterer](https://github.com/LanceSanity/Berkeley-CS61B-Audit/blob/master/proj3/src/main/java/Rasterer.java) | Renders map images given a user's requested area and level of zoom |
-| [GraphDB](https://github.com/LanceSanity/Berkeley-CS61B-Audit/blob/master/proj3/src/main/java/GraphDB.java) | Graph representation of the contents of [Berkeley OSM](https://github.com/Berkeley-CS61B/library-sp18/tree/proj3/data). Implemented an Autocomplete system using a Trie data structure, which allows matching a prefix to valid location names in O(k) time, where k is the number of words sharing the prefix.|
-| [GraphBuildingHandler](https://github.com/LanceSanity/Berkeley-CS61B-Audit/blob/master/proj3/src/main/java/GraphBuildingHandler.java) | Handler used by SAX parser to parse Nodes and Ways from Berkeley OSM file |
-| [Router](https://github.com/LanceSanity/Berkeley-CS61B-Audit/blob/master/proj3/src/main/java/Router.java) | Uses A* search algorithm to find the shortest path between two points in Berkeley; uses shortest path to generate navigation directions. |
+| [Rasterer](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/Rasterer.java) | Renders map images given a user's requested area and level of zoom |
+| [GraphDB](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/GraphDB.java) | Graph representation of the contents of [Berkeley OSM](https://github.com/Berkeley-CS61B/library-sp18/tree/proj3/data). Implemented an Autocomplete system using a Trie data structure, which allows matching a prefix to valid location names in O(k) time, where k is the number of words sharing the prefix.|
+| [GraphBuildingHandler](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/GraphBuildingHandler.java) | Handler used by SAX parser to parse Nodes and Ways from Berkeley OSM file |
+| [Router](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/Router.java) | Uses A* search algorithm to find the shortest path between two points in Berkeley; uses shortest path to generate navigation directions. |
 
 ### How to run
 1. git clone this repo and [library-sp18](https://github.com/Berkeley-CS61B/library-sp18/tree/proj3), which contains Open Street Maps images and dataset
