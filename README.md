@@ -4,7 +4,7 @@ Bear Maps is a web mapping application that finds the shortest route between two
 
 Try it out: [Heroku link](http://bearmaps2016.herokuapp.com)
 
-I implemented the back end features: [**Rasterer**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/Rasterer.java), [**GraphDB**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/GraphDB.java), [**GraphBuildingHandler**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/GraphBuildingHandler.java), and [**Router**](https://github.com/LanceSanity/Bear-Maps/blob/master/src/main/java/Router.java).
+I implemented the back end features: [**Rasterer**](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/Rasterer.java), [**GraphDB**](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/GraphDB.java), [**GraphBuildingHandler**](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/GraphBuildingHandler.java), and [**Router**](https://github.com/johnnyhuang97/BearMaps/blob/master/src/main/java/Router.java).
 
 <img src="demo.gif">
 
